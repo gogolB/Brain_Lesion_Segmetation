@@ -1,2 +1,4 @@
 notebooks/.ipynb_checkpoints/
 notebooks/best_model_so_far.h5
+notebooks/best_model.h5
+notebooks/test.png
